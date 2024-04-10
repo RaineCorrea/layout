@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imgProduct": "https://img001.prntscr.com/file/img001/OLtGhLowTw2Y4jRs3waAig.png",
+      "colors": [
+        "rgb(222, 172, 113)",
+        "rgb(211, 113, 100)",
+        "rgb(100, 151, 211)",
+        "rgb(60, 59, 121)"
+      ],
+      "price": 500,
+      "title": "Faux Suede Mini Skirt",
+      "description": "A faux suede mini skirt featuring exposed button-front closures and panel seam construction."
+    },
+    {
+      "id": 2,
+      "imgProduct": "https://img001.prntscr.com/file/img001/dGUqL2uKRzyrDRxda5wOjg.png",
+      "colors": [
+        "rgb(28, 26, 25)",
+        "rgb(216, 78, 75)",
+        "rgb(207, 201, 176)",
+        "rgb(234, 233, 229)"
+      ],
+      "price": 320,
+      "title": "Ruched Rose Print Mini Skirt",
+      "description": "A satin mini skirt featuring an allover floral print, ruched side with self-tie closure, concealed back zipper, and a flounce hem."
+    },
+    {
+      "id": 3,
+      "imgProduct": "https://img001.prntscr.com/file/img001/OLtGhLowTw2Y4jRs3waAig.png",
+      "colors": [
+        "rgb(222, 172, 113)",
+        "rgb(211, 113, 100)",
+        "rgb(100, 151, 211)",
+        "rgb(60, 59, 121)"
+      ],
+      "price": 500,
+      "title": "Faux Suede Mini Skirt",
+      "description": "A faux suede mini skirt featuring exposed button-front closures and panel seam construction."
+    },
+    {
+      "id": 4,
+      "imgProduct": "https://img001.prntscr.com/file/img001/dGUqL2uKRzyrDRxda5wOjg.png",
+      "colors": [
+        "rgb(28, 26, 25)",
+        "rgb(216, 78, 75)",
+        "rgb(207, 201, 176)",
+        "rgb(234, 233, 229)"
+      ],
+      "price": 321,
+      "title": "Ruched Rose Print Mini Skirt",
+      "description": "A satin mini skirt featuring an allover floral print, ruched side with self-tie closure, concealed back zipper, and a flounce hem."
+    },
+    {
+      "id": 5,
+      "imgProduct": "https://img001.prntscr.com/file/img001/OLtGhLowTw2Y4jRs3waAig.png",
+      "colors": [
+        "rgb(222, 172, 113)",
+        "rgb(211, 113, 100)",
+        "rgb(100, 151, 211)",
+        "rgb(60, 59, 121)"
+      ],
+      "price": 501,
+      "title": "Faux Suede Mini Skirt",
+      "description": "A faux suede mini skirt featuring exposed button-front closures and panel seam construction."
+    }
+  ]
+}

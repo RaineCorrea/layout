@@ -1,0 +1,12 @@
+.topBar {
+  text-align: center;
+  background: var(--black-100);
+}
+
+.topBar .topBarLink {
+  color: var(--white);
+  display: flex;
+  justify-content: center;
+  padding: 4px 0;
+  text-decoration: none;
+}

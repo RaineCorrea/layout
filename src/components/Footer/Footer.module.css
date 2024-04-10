@@ -1,0 +1,43 @@
+.container {
+  background-color: var(--black-100);
+  padding-top: 27px;
+  padding-bottom: 17px;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+  align-items: center;
+}
+
+.footerIconsSocial,
+.footerIconCard {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 0fr 0fr 0fr 0fr;
+  column-gap: 24px;
+}
+
+.footerLogo {
+  display: grid;
+  grid-template-columns: 0fr 0fr;
+  column-gap: 20px;
+}
+
+.footerVtex,
+.footerMaeztra {
+  color: var(--white);
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+@media screen and (max-width: 1025px) {
+  .container {
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
+    padding: 24px 0 30px 0;
+    row-gap: 30px;
+  }
+}

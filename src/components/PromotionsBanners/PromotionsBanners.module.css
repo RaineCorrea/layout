@@ -1,0 +1,47 @@
+.promotionsBanners {
+  position: relative;
+}
+
+.promotionsBannersImg {
+  width: 100%;
+}
+
+.promotionsBannersText {
+  position: absolute;
+  top: 30%;
+  left: 20%;
+}
+
+.promotionsBannersTitle {
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--white);
+  margin-bottom: 40px;
+}
+
+.promotionsBannersSubTitle {
+  color: var(--white);
+  margin-bottom: 40px;
+}
+
+.promotionsBannersButton {
+  border: transparent;
+  border-radius: 8px;
+  padding: 14px 30px;
+  background: var(--yellow-500);
+  color: var(--white);
+
+  cursor: pointer;
+}
+
+@media screen and (max-width: 500px) {
+  .promotionsBannersText {
+    top: 0;
+  }
+}
+
+@media screen and (min-width: 501px) and (max-width: 1025px) {
+  .promotionsBannersText {
+    top: 20%;
+  }
+}
